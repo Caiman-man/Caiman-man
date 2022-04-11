@@ -1,8 +1,8 @@
 ![Header](https://github.com/Caiman-man/Caiman-man/blob/main/Images/Ivanov_logo.png)
 
-#Hello I'm beginner Software Developer
+## Hello I'm beginner Software Developer
 ___
-#Languages and Tools:
+## Languages and Tools
 
 ![CSharp](https://img.shields.io/badge/CSharp-<COLOR>?style=flat-square&logo=Csharp&logoColor=a9eb3e&color=555555)
 ![Cplusplus](https://img.shields.io/badge/CPP-<COLOR>?style=flat-square&logo=Cplusplus&logoColor=a9eb3e&color=555555)
@@ -12,6 +12,16 @@ ___
 ![JS](https://img.shields.io/badge/JavaScript-<COLOR>?style=flat-square&logo=JavaScript&logoColor=a9eb3e&color=555555)
 ![jQuery](https://img.shields.io/badge/jQuery-<COLOR>?style=flat-square&logo=jQuery&logoColor=a9eb3e&color=555555)
 ![TSQL](https://img.shields.io/badge/TSQL-<COLOR>?style=flat-square&logo=Windows&logoColor=a9eb3e&color=555555)
+
+#### All list of languages and tools that I've been learned
+- Programming languages: C#, С, С++, JavaScript
+- Markup languages: HTML / CSS, XAML
+- Query languages: SQL, T-SQL
+- Windows Forms, WPF, WCF
+- ADO.NET + Entity Framework
+- ASP.NET Core (MVC, WinAPI, RazorPages)
+- MS SQL Server 2014
+
 
 
 
