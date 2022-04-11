@@ -5,7 +5,6 @@ ___
 ## Languages and Tools
 
 ![CSharp](https://img.shields.io/badge/CSharp-<COLOR>?style=flat-square&logo=Csharp&logoColor=a9eb3e&color=555555)
-![CS](https://img.shields.io/badge/C-<COLOR>?style=flat-square&logo=C&logoColor=a9eb3e&color=555555)
 ![Cplusplus](https://img.shields.io/badge/CPP-<COLOR>?style=flat-square&logo=Cplusplus&logoColor=a9eb3e&color=555555)
 ![.NET](https://img.shields.io/badge/.NET-<COLOR>?style=flat-square&logo=.NET&logoColor=a9eb3e&color=555555)
 ![HTML](https://img.shields.io/badge/HTML5-<COLOR>?style=flat-square&logo=HTML5&logoColor=a9eb3e&color=555555)
